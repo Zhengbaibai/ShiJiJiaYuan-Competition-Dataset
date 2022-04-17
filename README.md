@@ -3,11 +3,11 @@
 
 ### 1.Interaction records of users
 
-   - #### train.txt
+   #### train.txt
 
 - Each sample consists of the following information: USER_ID_A, USER_ID_B, ROUND, ACTION.
 
-- | Action | Description |
+| Action | Description |
 | ------- | ------- |
 |    rec     |   System recommended user B to user A      |
 |    click     |   User A clicked to browse personal information of user B, after the recommendations from system      |
@@ -23,7 +23,7 @@
 
 
 
-- | Field name | Description |
+| Field name | Description |
 | ------- | ------- |
 |    Uid     |    |
 |    sex     |   F:female <br> M:male     |
